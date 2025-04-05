@@ -1,0 +1,9 @@
+Package: com.bbate.calcconv
+Name: CalcConv
+Depends: firmware (>= 14.0), preferenceloader
+Version: 10
+Architecture: iphoneos-arm
+Description: Adds a currency menu button to the iOS Calculator app.
+Maintainer: Brady.aea
+Author: Brady.aea
+Section: Tweaks
