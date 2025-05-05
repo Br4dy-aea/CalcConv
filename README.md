@@ -12,4 +12,5 @@ Search will be improved.
 
 
 More conversions coming.
-History will be added for both conversions and standard calculations
+
+History added for conversions and coming soon for standard calculations

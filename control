@@ -1,0 +1,9 @@
+Package: com.bbate.calcconv14
+Name: CalcConv14
+Depends: firmware (>= 13.0), preferenceloader
+Version: 2.55
+Architecture: iphoneos-arm
+Description: Adds a conversion menu button to the iOS Calculator app.
+Maintainer: Br4dy.aea
+Author: Br4dy.aea
+Section: Tweaks
